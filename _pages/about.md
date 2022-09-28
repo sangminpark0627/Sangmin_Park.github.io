@@ -5,8 +5,8 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
-  align: right
-  image: image.jpg
+  align: false
+  image: false
   address: false
 
 news: false  # includes a list of news items
